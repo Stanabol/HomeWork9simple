@@ -121,7 +121,6 @@ p {
     line-height: 34px;
     color: #171717;
     padding-left: 30px;
-    padding-top: 5px;
     letter-spacing: 0.065em;
 }
 
@@ -146,7 +145,7 @@ p {
     padding-top: 15px;
     border: 2px solid #EAA258;
     box-sizing: border-box;
-    margin-top: 43px;
+    margin-top: 40px;
     margin-left: 105px;
 }
 
