@@ -1,9 +1,5 @@
 /* styles goes here */
-.container {
-    background: #FFFFFF;
-    box-shadow: 0px 4px 68px rgba(0, 0, 0, 0.1);
-    
-}
+
 
 p {
     margin: 0;
@@ -11,7 +7,7 @@ p {
 }
 
 .title {
-    margin-left: 105px;
+    margin-left: 120px;
     padding-top: 90px;
     font-family: 'Merriweather';
     font-style: normal;
@@ -19,6 +15,7 @@ p {
     font-size: 42px;
     line-height: 53px;
     color: #171717;
+    letter-spacing: 0.001em;
 }
 
 .firstp {
@@ -30,7 +27,7 @@ p {
     line-height: 34px;
     letter-spacing: 0.06em;
     color: rgba(0, 0, 0, 0.7);
-    padding-left: 105px;
+    padding-left: 120px;
     height: 104px;
 }
 
@@ -40,7 +37,7 @@ p {
     
 }
 .text1 {
-    padding-left: 105px;
+    padding-left: 120px;
     margin-top: 22px;
     font-family: 'Lato';
     font-style: normal;
@@ -52,8 +49,8 @@ p {
 }
 
 .text2 {
-    padding-left: 105px;
-    margin-top: 36px;
+    padding-left: 120px;
+    margin-top: 33px;
     font-family: 'Lato';
     font-style: normal;
     font-weight: 300;
@@ -64,8 +61,8 @@ p {
 }
 
 .text3 {
-    padding-left: 105px;
-    margin-top: 36px;
+    padding-left: 120px;
+    margin-top: 33px;
     font-family: 'Lato';
     font-style: normal;
     font-weight: 300;
@@ -97,11 +94,13 @@ p {
     line-height: 34px;
     letter-spacing: 0.05em;
     color: rgba(0, 0, 0, 0.7);
+    background: #FFFFFF;
+    box-shadow: 0px 4px 68px rgba(0, 0, 0, 0.1);
 }
 
 .ps {
     width: 1410px;
-    margin-left: 110px;
+    margin-left: 125px;
     margin-top: 25px;
     font-family: 'Lato';
     font-style: italic;
@@ -110,10 +109,11 @@ p {
     line-height: 34px;
     letter-spacing: 0.05em;
     color: #171717;
+    padding-top: 5px;
 }
 
 .psimg {
-    padding-bottom: 20px;
+    padding-bottom: 25px;
 }
 
 .pstext {
@@ -148,8 +148,8 @@ p {
     padding-top: 15px;
     border: 2px solid #EAA258;
     box-sizing: border-box;
-    margin-top: 40px;
-    margin-left: 105px;
+    margin-top: 38px;
+    margin-left: 120px;
 }
 
 .button a:hover {
